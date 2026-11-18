@@ -1,0 +1,10 @@
+# 06 · Guion — Pulido
+
+[⬅ Índice Pulido](00_INDICE_PULIDO.md)
+
+1. `[DKR001]` (`ssh -J USUARIO@10.1.120.10 ssdeti@10.1.100.41`): `docker ps` de PRX001, DNS001, DNS003, DHC001.
+2. Proxy: curl 403/200 → [01](01_PROXY_FILTRO_SQUID.md).
+3. DNS: dig interno/externo/5353 → [02](02_DNS001_DNS003.md).
+4. DHCP: DORA → [03](03_DHCP_KEA.md).
+5. `[DKR002]`: correo → [04](04_CORREO_POSTFIX_ROUNDCUBE.md).
+6. Con Escobar en VEN001: [P04](../../PRUEBAS_RECORRIDO/P04_FILTRO_NAVEGACION.md), [P08](../../PRUEBAS_RECORRIDO/P08_SOFTWARE_AUTORIZADO.md), [P05](../../PRUEBAS_RECORRIDO/P05_CORREO.md).
