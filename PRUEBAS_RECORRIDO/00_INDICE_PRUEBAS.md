@@ -2,6 +2,8 @@
 
 [⬅ README](../README.md) · [Matriz](../05_MATRIZ_RUBRICA_Y_EVIDENCIAS.md)
 
+> 📄 **Documento completo del equipo (Word):** [Pruebas_de_recorrido_1_a_10_Verificacion_y_paso_a_paso.docx](Pruebas_de_recorrido_1_a_10_Verificacion_y_paso_a_paso.docx) — verificación y paso a paso de las 10 pruebas, estado al 17-nov, quién hace cada una y desde qué equipo.
+
 Cada prueba ~90 s. Calificación 0 / 2,5 / 5. Puntos = grado × calificación ÷ 5. Para 5: **todos los pasos en vivo + explicar componentes**.
 
 | # | Prueba | Grado | Estado | Equipo recomendado | Archivo |

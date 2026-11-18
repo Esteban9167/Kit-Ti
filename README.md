@@ -27,6 +27,7 @@
 | Orden de la demo / versión ultracorta | [09_GUION_EMERGENCIA_Y_ULTRACORTO.md](09_GUION_EMERGENCIA_Y_ULTRACORTO.md) |
 | Sustentar el diagrama (4 min) | [10_SUSTENTACION_DIAGRAMA.md](10_SUSTENTACION_DIAGRAMA.md) |
 | Me sortearon la prueba N | [PRUEBAS_RECORRIDO/](PRUEBAS_RECORRIDO/00_INDICE_PRUEBAS.md) |
+| Documento Word de las pruebas 1 a 10 (verificación y paso a paso) | [PRUEBAS_RECORRIDO/Pruebas_de_recorrido_1_a_10_Verificacion_y_paso_a_paso.docx](PRUEBAS_RECORRIDO/Pruebas_de_recorrido_1_a_10_Verificacion_y_paso_a_paso.docx) |
 | Componente de un compañero | [ESTEBAN](ESTEBAN/00_INDICE_ESTEBAN.md) · [NICOLAS](NICOLAS/00_INDICE_NICOLAS.md) · [DANIEL](DANIEL/00_INDICE_DANIEL.md) · [SANTIAGO (Escobar)](SANTIAGO/00_INDICE_SANTIAGO.md) · [PULIDO](OTROS_INTEGRANTES/PULIDO/00_INDICE_PULIDO.md) |
 | Pregunta que cruza varios sistemas | [PREGUNTAS_TRANSVERSALES/](PREGUNTAS_TRANSVERSALES/12_FLUJOS_ENTRE_SISTEMAS.md) |
 | Qué falta de verdad | [REFERENCIAS/PENDIENTES_REALES.md](REFERENCIAS/PENDIENTES_REALES.md) |
