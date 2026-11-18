@@ -4,6 +4,10 @@
 
 **Fuente principal:** tabla "Datos para tener a mano en la verificación" del Guion del diagrama (17-nov) + diagrama `C4_LANgustino_Azure_FINAL.drawio`. Comando para comprobarlo en vivo: ver final del archivo.
 
+## Política de nombres
+
+Todos los servidores (VM y contenedores) siguen el patrón **SRV + ubicación (D1) + ambiente (DEV) + rol (2 o 3 letras) + consecutivo (001)**. Ejemplo: `SRVD1DEVAD001` = servidor, ubicación D1, ambiente DEV, rol AD, consecutivo 001. Máximo **15 caracteres** por el límite NetBIOS de Windows. Todos los contenedores llevan el prefijo `SRVD1DEV`.
+
 ## 1. Máquinas virtuales (10)
 
 | VM | Rol | IP privada | IP pública | Región · VNet · Subred | Tamaño | vCPU / RAM / Disco | SO | Responsable |
